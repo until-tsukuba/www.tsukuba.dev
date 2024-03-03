@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^3.3.0"
+    "astro": "^3.6.5"
   },
   "packageManager": "pnpm@8.8.0"
 }
